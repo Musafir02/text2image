@@ -1,0 +1,4 @@
+Flask
+bytez
+requests
+python-dotenv
